@@ -14,6 +14,7 @@ A simple Windows batch file that forcefully closes all running applications. It 
 - If not run with administrative privileges, the script prompts the user to restart it with elevated permissions using PowerShell.
 
 ## Usage
+[Download the script](https://github.com/IamSZaidH/windows-CloseAllApps-/archive/refs/heads/main.zip).
 1. Right-click the batch file and select **Run as Administrator**.
 2. The script will close all running applications.
 
